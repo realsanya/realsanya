@@ -1,7 +1,5 @@
 ## Hello World, I'm Sasha 👋
 
-</br>
-
 ### About me: 
 
 </br>
@@ -21,6 +19,7 @@
 ### Languages and Tools: 
 
 </br>
+
 <p align="left">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" alt="JavaScript" height="30" width="40" />
 
@@ -41,17 +40,16 @@
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/swift.svg" alt="Swift" height="30" width="40" />
 
 </br>
-</br>
 
 ### Where to find me: 
 
 </br>
 <p align="left">
-<a href="https://t.me/arealsanya"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="Telegram" height="30" width="40" /></a>
+<a href="https://t.me/arealsanya" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="Telegram" height="30" width="40" /></a>
 
-<a href="mailto:sashamorozova01@mail.ru"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg" alt="Mail" height="30" width="40" /></a>
+<a href="mailto:sashamorozova01@mail.ru" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg" alt="Mail" height="30" width="40" /></a>
 
-<a href="https://instagram.com/morozova.al"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://instagram.com/morozova.al" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 
 
 
