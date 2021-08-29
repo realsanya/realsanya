@@ -1,16 +1,57 @@
-### Hi there, I'm Sasha 👋
+## Hello World, I'm Sasha 👋
 
-<!--
-**realsanya/realsanya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</br>
 
-Here are some ideas to get you started:
+### About me: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</br>
+
+- 🎓 I’m a student of Institute of Information Technology and Intelligent Systems (KFU, ITIS).
+- ☕ I’m studying **Java EE** development at university.
+- 💼 I work as a frontend developer on **React**. 
+- 🔭 I'm currently learning backend development with **Node JS**.
+- 🤔 I am also interested in developing applications for **iOS**.
+
+</br>
+
+> There is nothing better than going back to the old code, where nothing has changed, in order to understand how you yourself have changed.
+
+</br>
+
+### Languages and Tools: 
+
+</br>
+<p align="left">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" alt="JavaScript" height="30" width="40" />
+
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg" alt="React" height="30" width="40" />
+
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/redux.svg" alt="Redux" height="30" width="40" />
+
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg" alt="Node" height="30" width="40" />
+
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg" alt="Java" height="30" width="40" />
+
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spring.svg" alt="Spring" height="30" width="40" />
+
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg" alt="Postgresql" height="30" width="40" />
+
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/redis.svg" alt="Redis" height="30" width="40" />
+
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/swift.svg" alt="Swift" height="30" width="40" />
+
+</br>
+</br>
+
+### Where to find me: 
+
+</br>
+<p align="left">
+<a href="https://t.me/arealsanya"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="Telegram" height="30" width="40" /></a>
+
+<a href="mailto:sashamorozova01@mail.ru"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg" alt="Mail" height="30" width="40" /></a>
+
+<a href="https://instagram.com/morozova.al"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+
+
+
