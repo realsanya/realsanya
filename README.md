@@ -14,11 +14,9 @@
 
 > There is nothing better than going back to the old code, where nothing has changed, in order to understand how you yourself have changed.
 
-</br>
+---
 
 ### Languages and Tools: 
-
-</br>
 
 <p align="left">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" alt="JavaScript" height="30" width="40" />
@@ -41,15 +39,18 @@
 
 </br>
 
+---
+
 ### Where to find me: 
 
-</br>
-<p align="left">
-<a href="https://t.me/arealsanya" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="Telegram" height="30" width="40" /></a>
+[telegram]: https://t.me/arealsanya
+[mail]: mailto:sashamorozova01@mail.ru
+[instagram]: https://www.instagram.com/morozova.al/
+[<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="Telegram" height="30" width="40" />][telegram]
+[<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg" alt="Mail" height="30" width="40" />][mail]
+[<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40" />][instagram] 
 
-<a href="mailto:sashamorozova01@mail.ru" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg" alt="Mail" height="30" width="40" /></a>
 
-<a href="https://instagram.com/morozova.al" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 
 
 
