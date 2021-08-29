@@ -2,8 +2,6 @@
 
 ### About me: 
 
-</br>
-
 - 🎓 I’m a student of Institute of Information Technology and Intelligent Systems (KFU, ITIS).
 - ☕ I’m studying **Java EE** development at university.
 - 💼 I work as a frontend developer on **React**. 
