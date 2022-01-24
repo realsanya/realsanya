@@ -5,8 +5,6 @@
 - 🎓 I’m a student of Institute of Information Technology and Intelligent Systems (KFU, ITIS).
 - ☕ I’m studying **Java EE** development at university.
 - 💼 I work as a frontend developer on **React**. 
-- 🔭 I'm currently learning backend development with **Node JS**.
-- 🤔 I am also interested in developing applications for **iOS**.
 
 </br>
 
