@@ -19,7 +19,6 @@
 ### Where to find me: 
 
 [telegram]: https://t.me/arealsanya
-[![Telegram](https://img.shields.io/badge/logo-telegram-blue?logo=telegram)][telegram]
-
+[![Telegram](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)][telegram]
 
 
