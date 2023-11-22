@@ -2,9 +2,9 @@
 
 ## 💫 About Me:
 
-🎓 I’m a bachelor of Institute of Information Technology and Intelligent Systems (KFU, ITIS).
-☕  I studied **Java EE** development at university.
-💼 I work as a frontend developer on **React**. 
+- 🎓 I’m a bachelor of Institute of Information Technology and Intelligent Systems (KFU, ITIS).
+- ☕  I studied **Java EE** development at university.
+- 💼 I work as a frontend developer on **React**. 
 
 
 > There is nothing better than going back to the old code, where nothing has changed, in order to understand how you yourself have changed.
