@@ -19,10 +19,7 @@
 ### Where to find me: 
 
 [telegram]: https://t.me/arealsanya
-[mail]: mailto:arealsanya@gmail.ru
-[<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="Telegram" height="30" width="40" />][telegram]
-[<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg" alt="Mail" height="30" width="40" />][mail]
-
+[![Telegram](https://img.shields.io/badge/logo-telegram-blue?logo=telegram)][telegram]
 
 
 
