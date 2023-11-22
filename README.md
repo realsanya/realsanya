@@ -1,10 +1,10 @@
-## Hello World, I'm Sasha 👋
+# Hello World, I'm Sasha 👋
 
-### About me: 
+## 💫 About Me:
 
-- 🎓 I’m a student of Institute of Information Technology and Intelligent Systems (KFU, ITIS).
-- ☕ I’m studying **Java EE** development at university.
-- 💼 I work as a frontend developer on **React**. 
+🎓 I’m a bachelor of Institute of Information Technology and Intelligent Systems (KFU, ITIS).
+☕  I studied **Java EE** development at university.
+💼 I work as a frontend developer on **React**. 
 
 </br>
 
@@ -12,26 +12,11 @@
 
 ---
 
-### Languages and Tools: 
+## 💻 Tech Stack:
 
-<p align="left">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" alt="JavaScript" height="30" width="40" />
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)  ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg" alt="React" height="30" width="40" />
-
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/redux.svg" alt="Redux" height="30" width="40" />
-
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg" alt="Node" height="30" width="40" />
-
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg" alt="Java" height="30" width="40" />
-
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spring.svg" alt="Spring" height="30" width="40" />
-
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg" alt="Postgresql" height="30" width="40" />
-
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/redis.svg" alt="Redis" height="30" width="40" />
-
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/swift.svg" alt="Swift" height="30" width="40" />
 
 </br>
 
@@ -40,12 +25,9 @@
 ### Where to find me: 
 
 [telegram]: https://t.me/arealsanya
-[mail]: mailto:sashamorozova01@mail.ru
-[instagram]: https://www.instagram.com/morozova.al/
+[mail]: mailto:arealsanya@gmail.ru
 [<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="Telegram" height="30" width="40" />][telegram]
 [<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg" alt="Mail" height="30" width="40" />][mail]
-[<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40" />][instagram] 
-
 
 
 
